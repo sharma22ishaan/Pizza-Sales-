@@ -36,5 +36,9 @@ The dashboard appears to be a "Pizza Sales Dashboard," which means the underlyin
 1) POWER BI Desktop
 2) Excel/CSV dataset
    
-SCEEENSHOTS / DEMO
+**SCEEENSHOTS / DEMO**
 SHOW WHAT THE DASHBOARD LOOKS LIKE: https://github.com/sharma22ishaan/Pizza-Sales-/blob/main/PIZZA%20SALES%20DASHBOARD
+
+**AUTHOR**
+ISHAAN SHARMA
+DATA SCIENCE ENTHUSIAST
