@@ -31,10 +31,10 @@ The dashboard appears to be a "Pizza Sales Dashboard," which means the underlyin
 6) Category: A categorical field. The pie chart is titled "Count of Pizza_Code by Category" and shows categories like "Veg" and "Non-Veg." This field classifies each pizza.
 
 7) Count of Pizza_Code: This is a measure, but it's likely based on a field that counts the number of pizzas
+
 **TOOLS USED**
 1) POWER BI Desktop
 2) Excel/CSV dataset
+   
 SCEEENSHOTS / DEMO
-**AUTHOR**
-ISHAAN SHARMA
-DATA SCIENCE ENTHUSIAST|POWER BI
+SHOW WHAT THE DASHBOARD LOOKS LIKE: https://github.com/sharma22ishaan/Pizza-Sales-/blob/main/PIZZA%20SALES%20DASHBOARD
